@@ -1,0 +1,13 @@
+name: test-app
+version: 0.1.0
+
+authors:
+  - diegopacheco <diego.pacheco.it@gmail.com>
+
+targets:
+  test-app:
+    main: src/test-app.cr
+
+crystal: 1.9.2
+
+license: MIT
